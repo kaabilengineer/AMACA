@@ -1,0 +1,25 @@
+Welcome to AMACA,
+the AI-powered voice assistant 
+that makes it easy for you to get 
+things done, stay organized, 
+and stay connected.
+AMACA was created by the team of 
+Tech Geeks  Aryan, Mandar, Atharva,
+Chinmay, Arya.
+We are a team of technologists, 
+researchers, and designers dedicated
+to creating the best possible voice
+assistant experience for our users.
+Our goal is to make AMACA your
+go-to helper for everything 
+from getting information to answering 
+questions and playing your favorite tunes and songs.
+AMACA is built on state-of-the-art technology, 
+including natural language processing
+and machine learning algorithms that allow it to
+understand and respond to your requests with ease.
+We also work to ensure that AMACA has the most
+accurate and up-to-date information and features available.
+Thank you for choosing AMACA as your virtual assistant.
+We hope you find it helpful and enjoyable to use!
+
